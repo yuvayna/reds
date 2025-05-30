@@ -223,8 +223,8 @@ Contributions are welcome! Please submit pull requests with clear descriptions o
 
 ## Credits and Licenses
 
-© 2024 dx. All rights reserved.
+© 2024 Yuvayna. All rights reserved.
 
-**GitHub:** eerieweb
+**GitHub:** Yuvayna
 
-**Discord:** ifwzee
+**Discord:** Yuvayna
